@@ -29,7 +29,7 @@
     "pretty-error": "4.0.0",
     "sanitize-html": ">=2.7.0",
     "selenium-webdriver": "4.3.0",
-    "semver": "7.3.7",
+    "semver": "7.5.2",
     "slash": "4.0.0",
     "string-similarity": "4.0.4",
     "tesseract.js": "2.1.5",
